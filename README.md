@@ -97,6 +97,19 @@ Robust Intelligence combines:
 
 ---
 
+## 🧩 Architecture
+...
+
+ mermaid
+flowchart LR
+    A[AI Model] --> B[Threat Detection Engine]
+    B --> C[Monitoring System]
+    C --> D[Security Layer]
+    D --> E[Solana Blockchain]
+    E --> F[Verification]
+    F --> B
+
+
 ## 🪙 Token Overview
 ...
 
