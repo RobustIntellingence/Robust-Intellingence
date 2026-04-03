@@ -217,6 +217,34 @@ Stay connected:
 - Not reactive — real-time protection system  
 - Not generic — designed for AI-native threats  
 
+---
+
+## 🔮 Future Vision
+...
+
+We believe AI will power everything.
+
+But without security:
+- AI cannot be trusted  
+- Systems can be manipulated  
+- Data becomes a liability  
+
+Robust Intelligence aims to become:
+👉 The default security layer for all AI systems.
+
+---
+
+## 🚀 Join Us Early
+...
+
+We are building from the ground up.
+
+Be early. Be part of the future.
+
+Follow us and stay updated.
+
+---
+
 ## Disclaimer
 
 This project is in early-stage development.  
