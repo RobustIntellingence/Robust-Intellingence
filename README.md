@@ -209,6 +209,14 @@ Stay connected:
 
 ---
 
+## 📄 Whitepaper
+...
+
+Read our full documentation here:  
+👉 [Download Whitepaper](docs/robust_whitepaper.pdf)
+
+---
+
 ## 🧠 What Makes Robust Different?
 ...
 
