@@ -21,7 +21,8 @@
 </p>
 ---
 
-## Introduction
+## 🚀 Introduction
+...
 
 Robust Intelligence is a next-generation AI security project focused on protecting artificial intelligence systems from emerging threats. As AI adoption accelerates across industries, the risks surrounding model integrity, data manipulation, and system exploitation are growing rapidly.
 
@@ -29,7 +30,8 @@ Our mission is to build a secure, scalable, and decentralized infrastructure tha
 
 ---
 
-## Problem
+## ❗ Problem
+...
 
 Modern AI systems face critical vulnerabilities:
 
@@ -43,7 +45,8 @@ As AI becomes more powerful, these risks become more dangerous.
 
 ---
 
-## Solution
+## 💡 Solution
+...
 
 Robust Intelligence introduces a decentralized AI security layer built on Solana.
 
@@ -59,26 +62,27 @@ Our system is designed to act as a protective shield for AI.
 
 ---
 
-## Key Features
+## 🔥 Key Features
+...
 
-### 1. Real-Time AI Protection
-Detect and respond to threats instantly as they occur.
+### 🔐 Real-Time AI Protection
+Detect and respond to threats instantly.
 
-### 2. Model Integrity Security
-Ensure AI models are not altered, corrupted, or exploited.
+### 🛡️ Model Integrity Security
+Ensure AI models are not altered or exploited.
 
-### 3. Decentralized Security Layer
-Remove single points of failure using blockchain technology.
+### 🌐 Decentralized Security Layer
+Remove single points of failure.
 
-### 4. High Performance
-Built on Solana for fast, low-cost, and scalable operations.
+### ⚡ High Performance
+Built on Solana for speed and scalability.
 
-### 5. Adaptive Defense System
-Continuously evolves to handle new attack vectors.
+### 🧠 Adaptive Defense System
+Evolves to handle new threats.
 
----
 
-## Technology
+## ⚙️ Technology
+...
 
 Robust Intelligence combines:
 
@@ -90,7 +94,8 @@ Robust Intelligence combines:
 
 ---
 
-## Token Overview
+## 🪙 Token Overview
+...
 
 - Token Name: Robust  
 - Symbol: $ROBUST  
@@ -109,7 +114,8 @@ $ROBUST will be used for:
 
 ---
 
-## Use Cases
+## 🌍 Use Cases
+...
 
 - AI platforms requiring security protection  
 - Web3 AI applications  
@@ -119,7 +125,8 @@ $ROBUST will be used for:
 
 ---
 
-## Vision
+## 👁️ Vision
+...
 
 To become the global security layer for AI systems.
 
@@ -130,7 +137,8 @@ We aim to create a future where:
 
 ---
 
-## Roadmap
+## 🗺️ Roadmap
+...
 
 ### Phase 1
 - Concept development  
@@ -159,7 +167,8 @@ We aim to create a future where:
 
 ---
 
-## Why Solana?
+## ⚡ Why Solana?
+...
 
 Solana provides:
 
@@ -172,7 +181,8 @@ This makes it ideal for AI security infrastructure.
 
 ---
 
-## Community
+## 🤝 Community
+...
 
 We are building a strong and early community.
 
