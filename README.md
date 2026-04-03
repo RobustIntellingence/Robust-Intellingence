@@ -162,7 +162,7 @@ We are building a strong and early community.
 Stay connected:
 
 - Twitter: https://x.com/robusthq  
-- Website: (add your link)  
+- Website: https://robustintelligence.com/
 - Docs: Coming soon  
 
 ---
