@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="banner.png" width="100%" />
+  <img src="banner.png" style="width:100%;" />
 </p>
+
+<br/>
+
 <p align="center">
   <img src="logo.png" width="180"/>
 </p>
-
 <h1 align="center">Robust Intelligence ($ROBUST)</h1>
 
 <p align="center">
