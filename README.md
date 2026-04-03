@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="logo.png" width="150" />
+</p>
 # Robust Intelligence ($ROBUST)
 
 AI Security Infrastructure built on Solana.
