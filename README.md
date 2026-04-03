@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="logo.png" width="150" />
+  <img src="logo.png" width="180"/>
 </p>
-# Robust Intelligence ($ROBUST)
 
-AI Security Infrastructure built on Solana.
+<h1 align="center">Robust Intelligence ($ROBUST)</h1>
 
+<p align="center">
+  AI Security Infrastructure built on Solana
+</p>
 ---
 
 ## Introduction
