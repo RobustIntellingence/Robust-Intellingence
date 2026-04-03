@@ -8,7 +8,13 @@
   <img src="assets/logo.png" width="180"/>
 </p>
 <h1 align="center">Robust Intelligence ($ROBUST)</h1>
+<p align="center">
 
+![Status](https://img.shields.io/badge/status-early--stage-blue)
+![Network](https://img.shields.io/badge/network-Solana-purple)
+![Token](https://img.shields.io/badge/token-$ROBUST-green)
+
+</p>
 <p align="center">
   AI Security Infrastructure built on Solana
 </p>
