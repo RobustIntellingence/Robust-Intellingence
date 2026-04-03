@@ -10,6 +10,9 @@
 <h1 align="center">Robust Intelligence ($ROBUST)</h1>
 <p align="center">
 
+  > 🚨 AI is evolving fast. Security must evolve faster.  
+> Robust Intelligence is building that defense layer.
+  
 ![Status](https://img.shields.io/badge/status-building-blue)
 ![Network](https://img.shields.io/badge/network-Solana-9945FF)
 ![Token](https://img.shields.io/badge/token-$ROBUST-00FFAA)
