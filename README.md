@@ -10,8 +10,8 @@
 <h1 align="center">Robust Intelligence ($ROBUST)</h1>
 <p align="center">
 
-> 🚨 AI is evolving fast. Security must evolve faster.  
-> Robust Intelligence is building that defense layer.
+> 🧠 AI is powerful — but vulnerable.  
+> Robust Intelligence is building the security layer that AI never had.
   
 ![Status](https://img.shields.io/badge/status-building-blue)
 ![Network](https://img.shields.io/badge/network-Solana-9945FF)
@@ -36,16 +36,15 @@ Our mission is to build a secure, scalable, and decentralized infrastructure tha
 ## ❗ Problem
 ...
 
-Modern AI systems face critical vulnerabilities:
+AI systems today are powerful — but fragile.
 
-- Model manipulation and adversarial attacks  
-- Data poisoning during training  
-- Unauthorized access to AI systems  
-- Lack of real-time monitoring and defense  
-- Centralized control with single points of failure  
+They can be:
+- Manipulated by adversarial inputs  
+- Corrupted during training (data poisoning)  
+- Exploited through vulnerabilities  
+- Controlled by centralized systems  
 
-As AI becomes more powerful, these risks become more dangerous.
-
+Without security, AI becomes a risk — not a solution.
 ---
 
 ## 💡 Solution
@@ -209,6 +208,14 @@ Stay connected:
 - Docs: Coming soon  
 
 ---
+
+## 🧠 What Makes Robust Different?
+...
+
+- Not just AI — focused on AI security  
+- Not centralized — built on Solana  
+- Not reactive — real-time protection system  
+- Not generic — designed for AI-native threats  
 
 ## Disclaimer
 
