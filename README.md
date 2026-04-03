@@ -10,9 +10,10 @@
 <h1 align="center">Robust Intelligence ($ROBUST)</h1>
 <p align="center">
 
-![Status](https://img.shields.io/badge/status-early--stage-blue)
-![Network](https://img.shields.io/badge/network-Solana-purple)
-![Token](https://img.shields.io/badge/token-$ROBUST-green)
+![Status](https://img.shields.io/badge/status-building-blue)
+![Network](https://img.shields.io/badge/network-Solana-9945FF)
+![Token](https://img.shields.io/badge/token-$ROBUST-00FFAA)
+![Stage](https://img.shields.io/badge/stage-early-green)
 
 </p>
 <p align="center">
