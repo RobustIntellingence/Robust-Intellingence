@@ -14,7 +14,7 @@
 > Robust Intelligence is building the security layer that AI never had.
   
 ![Status](https://img.shields.io/badge/status-building-blue)
-![Network](https://img.shields.io/badge/network-Solana-9945FF)
+![Network](https://img.shields.io/badge/network-eth_base-9945FF)
 ![Token](https://img.shields.io/badge/token-$ROBUST-00FFAA)
 ![Stage](https://img.shields.io/badge/stage-early-green)
 
