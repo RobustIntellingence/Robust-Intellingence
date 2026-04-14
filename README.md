@@ -77,7 +77,7 @@ Ensure AI models are not altered or exploited.
 Remove single points of failure.
 
 ### ⚡ High Performance
-Built on Solana for speed and scalability.
+Built on Eth base for speed and scalability.
 
 ### 🧠 Adaptive Defense System
 Evolves to handle new threats.
@@ -90,7 +90,7 @@ Robust Intelligence combines:
 
 - AI-based threat detection models  
 - Behavioral monitoring systems  
-- Blockchain verification layer (Solana)  
+- Blockchain verification layer (eth base)  
 - Secure data pipelines  
 - Future integration with on-chain validation  
 
@@ -114,7 +114,7 @@ flowchart LR
 
 - Token Name: Robust  
 - Symbol: $ROBUST  
-- Network: Solana  
+- Network: eth base  
 - Type: Utility Token  
 
 ### Token Utility
