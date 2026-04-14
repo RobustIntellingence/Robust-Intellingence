@@ -20,7 +20,7 @@
 
 </p>
 <p align="center">
-  AI Security Infrastructure built on Solana
+  AI Security Infrastructure built on Eth Base
 </p>
 ---
 
